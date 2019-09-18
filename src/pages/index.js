@@ -10,7 +10,6 @@ export default () => {
   
   return (
     <>
-      {console.log(posts)}
       <Hero/>
       <Layout>
         <h2>Read my blog</h2>
